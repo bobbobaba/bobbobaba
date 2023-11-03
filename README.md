@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 
 
 
-
+# Github美化日记 - 又菜又爱玩
+https://blog.csdn.net/qq_48759664/article/details/129976489?ops_request_misc=&request_id=&biz_id=102&utm_term=github%20readme%E7%BE%8E%E5%8C%96&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-4-129976489.142^v96^pc_search_result_base2&spm=1018.2226.3001.4187
 
 # emoji
 :bowtie:	bowtie
